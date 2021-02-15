@@ -1,0 +1,28 @@
+{
+  "name": "nd-leaftlet",
+  "version": "1.0.0",
+  "description": "A simple node leaflet web app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosdan8/nd-leaftlet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosdan8/nd-leaftlet/issues"
+  },
+  "homepage": "https://github.com/carlosdan8/nd-leaftlet#readme",
+  "dependencies": {
+    "ejs-mate": "^3.0.0",
+    "express": "^4.17.1",
+    "socket.io": "^3.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
